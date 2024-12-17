@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-My name is Fuyuki Tani (he/him), a graduate student in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago.
-I'm passionate about
+I am Fuyuki Tani (he/him), a graduate student in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. My passion lies in big data, AI, and their real-world applications, particularly in solving significant societal challenges. 
 
-i'm an experienced research engineer interested in using data science to encourage inclusive, sustainable socioeconomic development. these are the tools i use more frequently:
+###  Recent Projects
+#### Public Projects Pinned Below!
 
-Things I code with
-Python R Git Postgres SQL
-
-####  Recent Projects
-##### Public Projects Pinned Below!
-
-##### School Projects
+#### School Projects
 Due to academic integrity and respect for professors' intellectual property, many school project repositories are private. However, code samples can be shared with prospective employers upon request. Feel free to get in touch!
 
 <!--
