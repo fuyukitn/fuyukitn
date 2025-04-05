@@ -1,4 +1,5 @@
-I’m **Fuyuki Tani** (he/him), a graduate student in **Computational Analysis and Public Policy (MSCAPP)** at the University of Chicago. I’m passionate about big data, AI, and applying them to real-world challenges, particularly in the public and environmental sectors.
+### About Me 
+I’m **Fuyuki Tani** (he/him), a graduate student in **Computational Analysis and Public Policy (MSCAPP)** at the University of Chicago. I’m passionate about big data, AI, and applying them to real-world challenges.
 
 ---
 
@@ -6,7 +7,7 @@ I’m **Fuyuki Tani** (he/him), a graduate student in **Computational Analysis a
 **Understanding Anti-Asian Hate Crimes in America**  
 *with Akbar Saputra*  
 An interactive, scroll-driven visualization exploring the patterns of anti-Asian hate crimes in the U.S., in comparison to anti-Black and anti-Hispanic incidents.  
-🌐 [View the project](https://your-github-pages-link-here)
+🌐 [View the project](https://github.com/fuyukitn/asian-hate-visualization)
 
 ---
 
