@@ -1,24 +1,20 @@
-### Hi there 👋
+I’m **Fuyuki Tani** (he/him), a graduate student in **Computational Analysis and Public Policy (MSCAPP)** at the University of Chicago. I’m passionate about big data, AI, and applying them to real-world challenges, particularly in the public and environmental sectors.
 
-I am Fuyuki Tani (he/him), a graduate student in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. My passion lies in big data, AI, and their real-world applications, particularly in solving significant societal challenges. 
+---
 
-###  Recent Projects
-#### Public Projects Pinned Below!
+### 🔬 Recent Project
+**Understanding Anti-Asian Hate Crimes in America**  
+*with Akbar Saputra*  
+An interactive, scroll-driven visualization exploring the patterns of anti-Asian hate crimes in the U.S., in comparison to anti-Black and anti-Hispanic incidents.  
+🌐 [View the project](https://your-github-pages-link-here)
 
-#### School Projects
-Due to academic integrity and respect for professors' intellectual property, many school project repositories are private. However, code samples can be shared with prospective employers upon request. Feel free to get in touch!
+---
 
-<!--
-**fuyukitn/fuyukitn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Other Work
+#### Academic Projects  
+Most school-related repositories are private to respect academic integrity and intellectual property. Code samples are available upon request—please feel free to get in touch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact:**  
+[LinkedIn](https://www.linkedin.com/in/fuyukitani/) ・ [Email](fuyukitani@gmail.com)
