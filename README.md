@@ -1,9 +1,14 @@
 ### About Me 
-I’m **Fuyuki Tani** (he/him), a graduate student in **Computational Analysis and Public Policy (MSCAPP)** at the University of Chicago. I’m passionate about big data, AI, and applying them to real-world challenges.
+I’m **Fuyuki Tani** (he/him), a recent graduate of the University of Chicago’s **MS in Computational Analysis and Public Policy (MSCAPP)** program. I’m passionate about big data, AI, and applying them to real-world challenges.
 
 ---
 
 ### 🔬 Recent Project
+**Apartments Plus**
+A Django-based civic tech app that aggregates overlooked information in Chicago’s rental market—such as landlord reputations and proximity to essential amenities—to support informed housing decisions. Led data modeling, pipelines (Airflow), and Docker setup.
+🌐 [View the project](https://github.com/uchicago-capp-30320/apt-plus)
+
+
 **Understanding Anti-Asian Hate Crimes in America**  
 *with Akbar Saputra*  
 An interactive, scroll-driven visualization exploring the patterns of anti-Asian hate crimes in the U.S., in comparison to anti-Black and anti-Hispanic incidents.  
