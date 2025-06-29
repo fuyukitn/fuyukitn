@@ -4,7 +4,7 @@ I’m **Fuyuki Tani** (he/him), a recent graduate of the University of Chicago�
 ---
 
 ### 🔬 Recent Project
-**Apartments Plus**
+**Apartments Plus**  
 A Django-based civic tech app that aggregates overlooked information in Chicago’s rental market—such as landlord reputations and proximity to essential amenities—to support informed housing decisions. Led data modeling, pipelines (Airflow), and Docker setup.
 🌐 [View the project](https://github.com/uchicago-capp-30320/apt-plus)
 
