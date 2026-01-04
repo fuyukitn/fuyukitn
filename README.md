@@ -21,18 +21,15 @@ For more information, feel free to contact me via [email](fuyukitani@gmail.com) 
 ---
 
 ## Public Code Projects
-**Apartments Plus ** (2025|Python, Django, PostGIS, JavaScript, Airflow)  
+**[Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus)** (2025 | Python, Django, PostGIS, JavaScript, Airflow)  
 A Django-based civic tech app that aggregates overlooked information in Chicago’s rental market—such as landlord reputations and proximity to essential amenities—to support informed housing decisions. My contribution was data modeling, pipelines (Airflow), and Docker setup.  
-🌐 [View the project](https://github.com/uchicago-capp-30320/apt-plus)
 
-**Policy Pulse** (2025 | Python, AWS, Scikit-learn, PySpark, Matplotlib)  
+**[Policy Pulse](https://github.com/fuyukitn/policy-pulse)** (2025 | Python, AWS, Scikit-learn, PySpark, Matplotlib)  
 Scalable NLP pipeline for analyzing U.S. state legislative trends using Spark-based topic modeling and large-scale text data. Built an end-to-end distributed pipeline (AWS, Spark, Dask) to process 100k+ state bills and track policy topics over time and across states.  
-🌐 [View the project](https://github.com/fuyukitn/policy-pulse)
 
-**Understanding Anti-Asian Hate Crimes in America** (2025 | HTML/CSS, D3.js, Javascript, Python)  
+**[Understanding Anti-Asian Hate Crimes in America](https://github.com/fuyukitn/asian-hate-visualization)** (2025 | HTML/CSS, D3.js, Javascript, Python)  
 *with Akbar Saputra*  
 An interactive, scroll-driven visualization exploring the patterns of anti-Asian hate crimes in the U.S., in comparison to anti-Black and anti-Hispanic incidents.  
-🌐 [View the project](https://github.com/fuyukitn/asian-hate-visualization)
 
 ---
 
